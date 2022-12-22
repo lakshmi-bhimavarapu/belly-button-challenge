@@ -1,6 +1,6 @@
 # belly-button-challenge
 
-The link to the dashboard: https: https://lakshmi.bhimavarapu.github.io/Belly-Button-Biodiversity-Dashboard/
+The link to the dashboard: https: https://lakshmi-bhimavarapu.github.io/belly-button-challenge/
 
 ***data/sample.json*** is the input file in a json format.
 
